@@ -1,2 +1,2 @@
 # TimeTimer
-Google's Time Timer Software
+This is my simple toy project.
